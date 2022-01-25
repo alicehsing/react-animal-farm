@@ -7,5 +7,4 @@ export default function AnimalList(props) {
       <Animal key={animal.name + i} name={animal.name} type={animal.type} says={animal.says} top={animal.top} left={animal.left} />
     )}
   </div>;
- 
 }
