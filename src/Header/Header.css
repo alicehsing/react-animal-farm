@@ -1,8 +1,8 @@
 header {
-    color:yellowgreen;
+    color:rgb(26, 153, 26);
     background-color: yellow;
     font-weight: bold;
-    height: 50px;
+    height: 40px;
     display: flex;
     align-items: flex-start;
     align-items: center;

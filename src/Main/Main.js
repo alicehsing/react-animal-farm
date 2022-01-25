@@ -5,11 +5,11 @@ import AnimalList from '../AnimalList.js';
 
 export default function Main(props) {
   return (
-    <div className="main" style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <main className="main" style={{ backgroundImage: `url(${backgroundImage})` }}>
     
       <AnimalList animals={props.animals} />
 
 
-    </div>
+    </main>
   );
 }
