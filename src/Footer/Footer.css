@@ -1,0 +1,14 @@
+footer {
+    color: rgba(255, 255, 0, 0.808);
+    font-weight: bold;
+    height: 40px;
+    background-color: darkgreen;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
