@@ -5,6 +5,7 @@ export const animals = [
     says: 'Mooooooo!',
     top: '300px',
     left: '55%',
+    color: 'red'
   },
   {
     name: 'Noel the Donkey',
@@ -12,6 +13,7 @@ export const animals = [
     says: 'Heee haw!',
     top: '420px',
     left: '38%',
+    color: 'grey'
   },
   {
     name: 'Golly the Goose',
@@ -19,6 +21,7 @@ export const animals = [
     says: 'Run pig! Be free! I would if I could.',
     top: '480px',
     left: '65%',
+    color: 'orange'
   },
   {
     name: 'Wilbur the Pig',
@@ -26,6 +29,7 @@ export const animals = [
     says: 'You have been my friend. That in itself is a tremendous thing.',
     top: '480px',
     left: '5%',
+    color: 'green'
   },
   {
     name: 'Charlotte the Spider',
@@ -33,6 +37,7 @@ export const animals = [
     says: 'Never hurry and never worry!',
     top: '350px',
     left: '75%',
+    color: 'blue'
   },
   {
     name: 'Samuel the Sheep',
@@ -40,6 +45,6 @@ export const animals = [
     says: "Just because we're sheep, it doesn't mean we have to follow. Think for yourselves.",
     top: '325px',
     left: '20%',
+    color: 'purple'
   },
 ];
-  
