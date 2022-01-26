@@ -1,6 +1,7 @@
 body,
 #root, 
 .App {
+  background-color: yellow;
   height: 100%;
 }
 

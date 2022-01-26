@@ -5,7 +5,7 @@ header {
     height: 40px;
     display: flex;
     align-items: flex-start;
-    align-items: center;
+    align-items:flex-end;
     padding-left: 20px;
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

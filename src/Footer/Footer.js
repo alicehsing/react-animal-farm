@@ -2,6 +2,5 @@ import React from 'react';
 import './Footer.css';
 
 export default function Footer(props) {
-  return <footer>For questions, please reach out to {props.email} 
-  </footer>;
+  return <footer>For questions, please reach out to {props.email}.</footer>;
 }
